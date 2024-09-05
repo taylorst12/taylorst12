@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @taylorst12
 - 👀 I’m interested in Deploying VMs
+- Managing Windows Server with PowerShell 
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me eMail:taylorst12@gmail.com
